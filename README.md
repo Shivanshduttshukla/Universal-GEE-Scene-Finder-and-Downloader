@@ -337,6 +337,13 @@ The script is an **acquisition and metadata discovery tool**. Finding a scene do
 Before using imagery in research, check the dataset documentation, processing level, acquisition geometry, calibration, spatial resolution, polarization/bands, cloud or quality flags, and other mission-specific requirements.
 
 ---
+Acknowledgement
+
+If you use or adapt this workflow in academic work, presentations, or other public projects, please acknowledge the conceptual source:
+
+Inspiration: Dr. Dharmendra Kumar Pandey Sir.
+Ceated by: Shivansh Dutt Shukla
+You may also link back to the GitHub repository where you publish your adapted version.
 
 # Disclaimer
 
