@@ -2,7 +2,6 @@
 
 A reusable **Google Colab + Google Earth Engine** workflow for finding satellite scenes over a geographic location or vector AOI, inspecting acquisition metadata, exporting the results to Excel, and optionally downloading selected scenes.
 
-> **Concept / inspiration:** Dharmendra Kumar Pandey Sir.
 
 ## What this project does
 
