@@ -271,7 +271,7 @@ allows the downloader to use its automatic/default band handling.
 # Vector AOI Scene Downloader
 
 The final notebook section provides an interactive vector-AOI workflow.
-
+Note: The Lat/Long Value you filled earlier must lie inside the shapefile.
 Supported inputs include:
 
 - ZIP Shapefile
